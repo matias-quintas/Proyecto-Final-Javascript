@@ -45,7 +45,7 @@ function tipoVehiculo() {
                 return 2000;
             case "auto":
                 return 4000;
-            case "camioneta":
+            case "ambulancia":
                 return 5000;
             default : 2000; 
         }
